@@ -24,7 +24,7 @@ async function main() {
                 "Content-Location": "datapoint/chunk",
                 "Publisher": signer.address
             },
-            body: "Hello World",
+            body: "Hello World, It's Favour Ajokubi on wttp",
             signer: signer
         });
         console.log();
